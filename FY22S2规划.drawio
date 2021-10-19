@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T03:56:45.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iSBFngbIxxXYQ2sJ0EjU" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T03:58:45.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BhOsCJwFuepBWxEZeKfi" version="15.2.7" type="github">
   <diagram id="nrhkv89WRPYNyi5R9gv3" name="Page-1">
     <mxGraphModel dx="2573" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,6 +255,12 @@
         </mxCell>
         <mxCell id="0Eh8W8xkV04Ss9iOJh_o-77" value="精排/final_sort" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="990" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Eh8W8xkV04Ss9iOJh_o-78" value="Summary服务化" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="1420" width="174" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0Eh8W8xkV04Ss9iOJh_o-79" value="端云一体搜索" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1420" width="174" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
