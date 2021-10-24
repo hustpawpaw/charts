@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T11:25:22.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="kYj07ByJWt3BuWN7idbU" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T11:26:43.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="PDyjF2yLtFCExWRluqmh" version="15.5.5" type="github">
   <diagram id="nrhkv89WRPYNyi5R9gv3" name="Page-1">
     <mxGraphModel dx="2573" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -545,8 +545,8 @@
         <mxCell id="Nq8M5jpp8uqmLhBTmS_X-82" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1620" y="2560" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Nq8M5jpp8uqmLhBTmS_X-83" value="商品主搜" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1889.35" y="2570" width="198.29" height="130" as="geometry" />
+        <mxCell id="Nq8M5jpp8uqmLhBTmS_X-83" value="商品主搜" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1889.35" y="2560" width="198.29" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Nq8M5jpp8uqmLhBTmS_X-84" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nq8M5jpp8uqmLhBTmS_X-81" target="Nq8M5jpp8uqmLhBTmS_X-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -571,6 +571,9 @@
         </mxCell>
         <mxCell id="Nq8M5jpp8uqmLhBTmS_X-92" value="...&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1621" y="2780" width="199" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nq8M5jpp8uqmLhBTmS_X-94" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;闲鱼垂搜VSearch&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="2573" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
