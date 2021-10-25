@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T06:13:41.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lH8dUoXh0_kk2k7wHgyL" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:41:01.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="c7_mzLLPD-neOUhBUX5u" version="15.5.5" type="github">
   <diagram id="nrhkv89WRPYNyi5R9gv3" name="Page-1">
     <mxGraphModel dx="2573" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -560,7 +560,7 @@
         <mxCell id="SWnNv2ghN_zAGk2i34JY-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2321" y="3163" width="199" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SWnNv2ghN_zAGk2i34JY-8" value="拍卖" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="SWnNv2ghN_zAGk2i34JY-8" value="社区" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2321" y="3213" width="199" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SWnNv2ghN_zAGk2i34JY-9" value="...&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" parent="1" vertex="1">
@@ -646,6 +646,21 @@
             <mxPoint x="370.855" y="2400" as="sourcePoint" />
             <mxPoint x="371" y="2530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-5" value="闲鱼搜索业务层" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="3308" y="2860" width="320" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-6" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2960" y="2830" as="sourcePoint" />
+            <mxPoint x="3920" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-7" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;服务端&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="2850" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-8" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;客户端&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="2760" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
