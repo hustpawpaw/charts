@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T12:28:04.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7ErDDoFAhW9xKmBwxqNI" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T12:33:08.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="yCX3-DO09Nwa7HSXEDjp" version="15.5.5" type="github">
   <diagram id="73XBl6DxMWSLZ-Mzj7Kj" name="Page-1">
     <mxGraphModel dx="3400" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,25 +257,25 @@
           <mxGeometry x="650" y="990" width="87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-78" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="636" width="500" height="134" as="geometry" />
+          <mxGeometry x="-1010" y="636" width="550" height="134" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-79" value="&lt;b&gt;YuSearch 搜索业务平台&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-860" y="644" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-82" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="818.13" width="130" height="191.87" as="geometry" />
+          <mxGeometry x="-1010" y="820" width="130" height="161.87" as="geometry" />
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-83" value="&lt;b&gt;VSearch 通用垂搜&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="830" width="120" height="20" as="geometry" />
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-83" value="&lt;b style=&quot;font-size: 16px&quot;&gt;VSearch 垂搜&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1005" y="831.87" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-84" value="租房" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="862" width="130" height="50" as="geometry" />
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-84" value="租房" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="863.87" width="130" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-85" value="用户" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="912" width="130" height="50" as="geometry" />
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-85" value="用户" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="890.94" width="130" height="30.93" as="geometry" />
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-86" value="社区" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="962" width="130" height="38" as="geometry" />
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-86" value="&lt;font style=&quot;font-size: 14px&quot;&gt;社区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="921.87" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-680" y="1150" width="521.42" height="530" as="geometry" />
@@ -304,8 +304,32 @@
             <mxPoint x="-429" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-103" value="混排" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="724" width="470" height="38" as="geometry" />
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-103" value="&lt;span style=&quot;font-size: 14px&quot;&gt;混排&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-985" y="711" width="500" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-104" value="&lt;span style=&quot;font-size: 14px&quot;&gt;成交价&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="951.87" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-105" value="&lt;span style=&quot;font-size: 14px&quot;&gt;...&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="981.87" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-107" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="820" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-108" value="&lt;b&gt;商品主搜Tpp&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="831.87" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-116" value="&lt;font style=&quot;font-size: 14px&quot;&gt;商品pipeline&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="863.87" width="50" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-117" value="&lt;font style=&quot;font-size: 14px&quot;&gt;极速推pipeline&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="863.87" width="50" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-118" value="&lt;font style=&quot;font-size: 14px&quot;&gt;summary&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="939" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-119" value="&lt;font style=&quot;font-size: 14px&quot;&gt;混排&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="973" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
