@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T13:39:46.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="PVlGYMRGR95kNxVT-bhe" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T13:41:55.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="QJI7ggE5QuLi3uLoUJ-L" version="15.5.5" type="github">
   <diagram id="73XBl6DxMWSLZ-Mzj7Kj" name="Page-1">
     <mxGraphModel dx="4535" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -568,7 +568,7 @@
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-202" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: center ; background-color: rgb(248 , 249 , 250) ; font-size: 16px&quot;&gt;Server&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1754" y="626" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-216" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-216" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2150" y="1630" width="660" height="450" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-217" value="&lt;b style=&quot;font-size: 16px&quot;&gt;YuSearch&amp;nbsp; 搜索业务平台&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
@@ -714,7 +714,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-250" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-250" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2070" y="2097" width="580" height="193" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-251" value="业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -723,7 +723,7 @@
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-252" value="全域流量中控台" style="text;fontSize=20;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2200" y="1772.76" width="30" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-253" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-253" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2210" y="2097" width="120" height="193" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-254" value="&lt;b style=&quot;font-size: 16px&quot;&gt;基于TisPlus的Ha3服务&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
@@ -752,9 +752,6 @@
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-262" value="成交价搜索" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="2210" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-263" value="&lt;b&gt;引擎离线模块&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-2203" y="2113.1800000000003" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-264" value="saro平台" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2196" y="2140" width="95" height="59" as="geometry" />
@@ -832,6 +829,9 @@
         </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-290" value="&lt;font style=&quot;font-size: 16px&quot;&gt;应用合并&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-891.87" y="662.0000000000001" width="138.87" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="z_ON2gfmLrtd9v5Lrf8q-292" value="&lt;b style=&quot;font-size: 16px&quot;&gt;离线引擎模块&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2203.5" y="2110.0000000000005" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
