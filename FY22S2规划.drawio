@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T09:00:49.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="enUed9Y3gzarbl9FJxPK" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T02:38:58.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Q2p0n0BH8_H8rDha7w26" version="15.5.5" type="github">
   <diagram id="nrhkv89WRPYNyi5R9gv3" name="Page-1">
     <mxGraphModel dx="2573" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -713,7 +713,7 @@
             <mxPoint x="3699.1450000000004" y="3003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HhHnP3WKtLAIoYUKuhgC-30" value="数据开放接口" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-30" value="外接数据源" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3860" y="2992" width="148.29" height="68" as="geometry" />
         </mxCell>
         <mxCell id="HhHnP3WKtLAIoYUKuhgC-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HhHnP3WKtLAIoYUKuhgC-16" target="HhHnP3WKtLAIoYUKuhgC-30">
@@ -752,10 +752,10 @@
             <mxPoint x="4068.29" y="3123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HhHnP3WKtLAIoYUKuhgC-40" value="客户端UI" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-40" value="UI层" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3371" y="2730" width="226" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HhHnP3WKtLAIoYUKuhgC-41" value="端侧引擎" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="HhHnP3WKtLAIoYUKuhgC-41" value="客户端搜索引擎" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3660" y="2730" width="226" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HhHnP3WKtLAIoYUKuhgC-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HhHnP3WKtLAIoYUKuhgC-16" target="HhHnP3WKtLAIoYUKuhgC-40">
