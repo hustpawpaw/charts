@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T02:25:15.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="LAhhgAgAwgvyHTazo5lX" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T03:08:52.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="afs10TFFU21VV9lq_YKe" version="16.5.4" type="github">
   <diagram id="73XBl6DxMWSLZ-Mzj7Kj" name="Page-1">
-    <mxGraphModel dx="4675" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5502" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="146oWobLA5L_IARPB8bv-17" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-2481" y="1057" width="180" height="193" as="geometry" />
+        </mxCell>
         <mxCell id="z_ON2gfmLrtd9v5Lrf8q-1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=2;dashPattern=1 2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-73" y="800" as="sourcePoint" />
@@ -883,6 +886,45 @@
             <mxPoint x="10" y="2570" as="sourcePoint" />
             <mxPoint x="80" y="2570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-2650" y="1057" width="160" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-2270" y="1057" width="120" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-4" value="&lt;b&gt;Tisplus 2.0&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2610" y="1061" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-7" value="帖子搜索" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2640" y="1180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-8" value="商品主搜引擎" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2456" y="1100.32" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-10" value="Summary引擎" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="1181.32" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-11" value="用户搜索" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2640" y="1099" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-13" value="&lt;b&gt;引擎离线模块&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2783" y="1073.18" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-14" value="saro平台" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="1100" width="95" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-15" value="自建dump" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="1171" width="97" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="146oWobLA5L_IARPB8bv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2078.9999999999995" y="938" as="sourcePoint" />
+            <mxPoint x="-2300" y="1154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="146oWobLA5L_IARPB8bv-18" value="&lt;b&gt;SuezOps3.0&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2445" y="1063.18" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
