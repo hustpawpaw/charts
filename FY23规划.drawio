@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T07:21:14.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="d3N952yND1aa4JPTosGW" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T07:23:32.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Ew9l-OSRD-M5_VPUek7g" version="16.5.4" type="github">
   <diagram id="4htZDOzP5jDUyGYkSnRW" name="Page-1">
     <mxGraphModel dx="2194" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
             <mxPoint x="455" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JT4EyiMcecOrfR4N7jG7-20" value="多路召回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="460" height="45.5" as="geometry" />
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-20" value="闲鱼搜索业务平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="460" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="JT4EyiMcecOrfR4N7jG7-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,22 +65,37 @@
           <mxGeometry x="190" y="529" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JT4EyiMcecOrfR4N7jG7-23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;业务平台层&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="357.75" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="327.75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JT4EyiMcecOrfR4N7jG7-24" value="开放数据接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="407.75" width="220" height="45.5" as="geometry" />
+          <mxGeometry x="280" y="377.75" width="220" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="JT4EyiMcecOrfR4N7jG7-25" value="统一垂搜框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="407.75" width="110" height="45.5" as="geometry" />
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-25" value="通用垂搜框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="377.75" width="110" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="JT4EyiMcecOrfR4N7jG7-27" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="460" width="70" height="45.5" as="geometry" />
+          <mxGeometry x="280" y="430" width="70" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="JT4EyiMcecOrfR4N7jG7-28" value="聊天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="70" height="45.5" as="geometry" />
+          <mxGeometry x="357" y="430" width="70" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="JT4EyiMcecOrfR4N7jG7-29" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="460" width="70" height="45.5" as="geometry" />
+          <mxGeometry x="432" y="430" width="70" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-30" value="商品主搜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="631" y="377.75" width="110" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-31" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-32" value="租房" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576" y="430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-33" value="社区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="469" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JT4EyiMcecOrfR4N7jG7-34" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576" y="469" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
